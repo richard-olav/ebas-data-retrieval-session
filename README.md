@@ -23,6 +23,7 @@ pydap==3.2.2
 
 **Set Git Name and Email**
 >export GIT_COMMITTER_NAME=anonymous
+
 >export GIT_COMMITTER_EMAIL=anon@localhost
 
 **clone the repository here (https://github.com/richard-olav/ebas-data-retrieval-session)**
