@@ -31,6 +31,6 @@ pydap==3.2.2
 > git clone https://github.com/richard-olav/ebas-data-retrieval-session.git
 
 **First install requirements.txt (must be done locally for user)**
-> pip install -U requirements.txt
+> pip install -U -r requirements.txt
 
 **Go to the python3 directory, and you should be able to play around**
