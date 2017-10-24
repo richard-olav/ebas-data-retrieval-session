@@ -21,11 +21,11 @@ pydap==3.2.2
 **First install requirements.txt (must be done locally for user)**
 > pip install -U requirements.txt
 
-**Set Git Name and Email
+**Set Git Name and Email**
 >export GIT_COMMITTER_NAME=anonymous
 >export GIT_COMMITTER_EMAIL=anon@localhost
 
-**clone the repository here (https://github.com/richard-olav/ebas-data-retrieval-session)
+**clone the repository here (https://github.com/richard-olav/ebas-data-retrieval-session)**
 > git clone https://github.com/richard-olav/ebas-data-retrieval-session.git
 
-**Go to the python3 directory, and you should be able to play around
+**Go to the python3 directory, and you should be able to play around**
