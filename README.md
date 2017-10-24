@@ -18,8 +18,9 @@ netCDF4==1.3.0
 pydap==3.2.2
 
 # How to get started using notebooks on csc
-**First install requirements.txt (must be done locally for user)**
-> pip install -U requirements.txt
+
+**When you open the Notebook GUI, you will in the right corner of the screen see a dropdown with the title "New".
+> Press this, and then select "Terminal"
 
 **Set Git Name and Email**
 >export GIT_COMMITTER_NAME=anonymous
@@ -28,5 +29,8 @@ pydap==3.2.2
 
 **clone the repository here (https://github.com/richard-olav/ebas-data-retrieval-session)**
 > git clone https://github.com/richard-olav/ebas-data-retrieval-session.git
+
+**First install requirements.txt (must be done locally for user)**
+> pip install -U requirements.txt
 
 **Go to the python3 directory, and you should be able to play around**
