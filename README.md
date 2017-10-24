@@ -27,7 +27,7 @@ pydap==3.2.2
 
 >export GIT_COMMITTER_EMAIL=anon@localhost
 
-**clone the repository here (https://github.com/richard-olav/ebas-data-retrieval-session)**
+**clone the repository**
 > git clone https://github.com/richard-olav/ebas-data-retrieval-session.git
 
 **First install requirements.txt (must be done locally for user)**
