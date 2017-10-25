@@ -17,30 +17,11 @@ netCDF4==1.3.0
 
 pydap==3.2.2
 
-# How to get started using notebooks on csc
+# Generate Plots as html
 
-**When you open the Notebook GUI, you will in the right corner of the screen see a dropdown with the title "New".
-> Press this, and then select "Terminal"
+**You can generate Bokeh plots as html. In order to do this you must download the notebook as a python file (.py). And you must comment out the following content:**
+> output_notebook()
 
-**Set Git Name and Email**
->export GIT_COMMITTER_NAME=anonymous
+**See the create_plot_as_html.py example:**
+> python create_plot_as_html.py
 
->export GIT_COMMITTER_EMAIL=anon@localhost
-
-**clone the repository**
-> git clone https://github.com/richard-olav/ebas-data-retrieval-session.git
-
-**First install requirements.txt (must be done locally for user)**
-> pip install --upgrade pip
-
-> pip install -U -r requirements.txt
-
-or
-
-> pip install --upgrade pip
-
-> pip install -U netCDF4
-
-> pip install -U Pydap
-
-**Go to the python3 directory, and you should be able to play around**
