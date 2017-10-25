@@ -32,12 +32,15 @@ pydap==3.2.2
 
 **First install requirements.txt (must be done locally for user)**
 > pip install --upgrade pip
+
 > pip install -U -r requirements.txt
 
 or
 
 > pip install --upgrade pip
+
 > pip install -U netCDF4
+
 > pip install -U Pydap
 
 **Go to the python3 directory, and you should be able to play around**
